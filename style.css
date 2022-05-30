@@ -19,6 +19,33 @@
     margin-right: auto;
 }
 .iop87{
-    
+    margin-left: auto;
+    margin-right: auto;
+    width:100%
    
+}
+
+.block91{
+    max-width:600px;
+    min-width:300px;
+    
+}
+.iop56{
+    width:35px;
+    height:auto;
+
+
+}
+
+.content56{
+    background-color:rgb(69, 69, 69);
+    color:white;
+}
+
+.content57{
+    background: linear-gradient(3deg, #6ca5e6, #f3f0f9);
+}
+.iop19{
+    width:100%;
+    background-color:red;
 }
